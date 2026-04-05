@@ -4,12 +4,6 @@ A modern and responsive **multi-page fashion e-commerce website** built using **
 
 ---
 
-## 🚀 Live Demo
-
-🔗 https://fashion-wear-ecommerce.vercel.app/
-
----
-
 ## 📌 Features
 
 - 🧥 Multi-page website (Home, Shop, Product, Cart, Contact)
@@ -88,28 +82,27 @@ Steps to deploy your own version:
 ---
 
 ## 📸 Screenshots
-
-![Capture1](https://github.com/user-attachments/assets/0d8dea8c-ada4-4566-82c8-4857de6d1270)
-![Capture2](https://github.com/user-attachments/assets/78414259-fbaa-4662-b2fb-fcfb17b8f900)
-![Capture3](https://github.com/user-attachments/assets/81819786-fed0-4bb4-853f-418715446048)
-![Capture4](https://github.com/user-attachments/assets/7146df76-c3ad-40fa-9bbb-6c00557da7e9)
-![Capture5](https://github.com/user-attachments/assets/f28a514a-0657-40d9-9531-395e49dbec74)
-![Capture6](https://github.com/user-attachments/assets/654c7c6c-b660-48af-a388-423508a28892)
-![Capture7](https://github.com/user-attachments/assets/856bdfa9-2081-401a-ad94-16370a663bd3)
-![Capture8](https://github.com/user-attachments/assets/7cd11bfe-1107-4a66-b728-6935592b0866)
-![Capture9](https://github.com/user-attachments/assets/76baf6e8-3fe3-4072-b9e0-d15920357d53)
-![Capture10](https://github.com/user-attachments/assets/8f5adbb0-8c2d-4d97-86e1-eef48141d4c4)
-![Capture11](https://github.com/user-attachments/assets/a9d36b4d-d257-4fe7-ad39-9ba408ccb1f2)
-![Capture12](https://github.com/user-attachments/assets/9e2d1627-dab9-4250-b5c7-a3d5b569d07f)
-![Capture13](https://github.com/user-attachments/assets/109d0988-dc66-4a49-a9d2-a021351896e2)
-![Capture14](https://github.com/user-attachments/assets/12a1ddf9-30b3-44d0-9971-af1c76769cdf)
-![Capture15](https://github.com/user-attachments/assets/c6dde479-59b6-461c-b8e8-59376184136f)
-![Capture16](https://github.com/user-attachments/assets/e323c771-8c40-444b-b0c9-76c95aa01db1)
-![Capture17](https://github.com/user-attachments/assets/e6b85c5e-2df8-4704-abfa-8a92ad842016)
-![Capture18](https://github.com/user-attachments/assets/e6510be6-e175-4c3c-84d1-28044b1429e3)
-![Capture19](https://github.com/user-attachments/assets/28dcb976-4dff-405e-9f62-877ba102c4b1)
-![Capture20](https://github.com/user-attachments/assets/196def69-36aa-4fef-9336-9fa3c916c49a)
-![Capture21](https://github.com/user-attachments/assets/32da729a-64e4-4cb2-8d88-81268cdc9561)
+![Capture1](https://github.com/user-attachments/assets/ef06e169-029c-4e2b-bfae-0eef7f149ae2)
+![Capture2](https://github.com/user-attachments/assets/62fc3f8b-033b-48ea-b348-7b796979459d)
+![Capture3](https://github.com/user-attachments/assets/2fab53a0-a2dc-40e5-82a7-a1b5d18a8403)
+![Capture4](https://github.com/user-attachments/assets/830300fa-61cd-4cb1-bfa0-d7214f881d23)
+![Capture5](https://github.com/user-attachments/assets/184c9bc8-f52a-4531-9cb6-defe28fc8192)
+![Capture6](https://github.com/user-attachments/assets/7ea41579-fd0e-45f9-a1f4-44958e37b223)
+![Capture7](https://github.com/user-attachments/assets/635b6741-096b-4f40-824d-e521852ada81)
+![Capture8](https://github.com/user-attachments/assets/08d36f7d-35ef-4f5a-8f6a-e20775fdb88a)
+![Capture9](https://github.com/user-attachments/assets/347d0d19-93bf-4c5b-b1b9-3fc224da11df)
+![Capture10](https://github.com/user-attachments/assets/2ef8bd25-b2e5-4f14-b8d1-33e33a7c0855)
+![Capture11](https://github.com/user-attachments/assets/4275dbd0-1b55-4ae1-a6f7-d4f7eabe2eba)
+![Capture12](https://github.com/user-attachments/assets/1408fd7c-d639-45af-8948-2d00c802d2e3)
+![Capture13](https://github.com/user-attachments/assets/acb4e359-688f-4c16-bbac-47e6e57d77cf)
+![Capture14](https://github.com/user-attachments/assets/76b7d2cb-8832-49b4-a9e0-4cd025e149d8)
+![Capture15](https://github.com/user-attachments/assets/4122d0e9-0412-4350-8128-9fad788705b4)
+![Capture16](https://github.com/user-attachments/assets/f01809b2-1f0e-4092-b9c6-1dcf2f315424)
+![Capture17](https://github.com/user-attachments/assets/1f8855bd-2805-4740-8898-6fe30d070a34)
+![Capture18](https://github.com/user-attachments/assets/66cae731-a867-438f-b3c0-0f6a551fcc1d)
+![Capture19](https://github.com/user-attachments/assets/1fddd11e-9199-41f7-a74a-d3187979b967)
+![Capture20](https://github.com/user-attachments/assets/ea71ee55-2e50-42b4-9e6a-0c6bf3a99c7f)
+![Capture21](https://github.com/user-attachments/assets/cd2fdcca-0029-4208-bdf0-e8d7a36915de)
 
 ---
 
